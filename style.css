@@ -62,7 +62,7 @@ p{
  }
 
 .animation{
-  animation: roll 3s infinite;
+  animation: roll  infinite;
   transform:rotate(30deg) ;
   opacity: 0.7;
 }
